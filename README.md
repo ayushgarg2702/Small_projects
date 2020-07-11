@@ -1,6 +1,6 @@
 # Small_projects
 Small projects made up by using the python progrming language
-I am continuesly upload my projects on this reprositery'
+I am continuously upload my projects on this repository'
 These all very interesting projects. You can easily understnd it.
 
 
